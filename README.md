@@ -25,4 +25,4 @@ Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho ap
 - **Levantamentos de Requisitos**
 ## 🎯 Expectativas para o Futuro
 
-Com o término do curso, espero conseguir um estágio como desenvolvedor para aplicar o que aprendi em projetos reais. Atualmente estou cursando Engenharia Elétrica, outra área que eu também gosto, posteriormente irei fazer Ciência da Computação, com o objetivo final de juntar essas duas faculdades para me ajudar no mercado de trabalho.
+Com o término do curso, espero conseguir um estágio como desenvolvedor para aplicar o que aprendi em projetos reais, adiquirindo mais reconhecimento nessa área. Atualmente estou cursando Engenharia Elétrica, outra área que eu também gosto, posteriormente irei fazer Ciência da Computação, com o objetivo final de juntar essas duas faculdades para me ajudar no mercado de trabalho.
